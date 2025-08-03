@@ -1,0 +1,57 @@
+{"time":"2025-01-24T15:40:48.0404997+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_154047-qymfj6fc\\logs\\debug-core.log"}
+{"time":"2025-01-24T15:40:49.7286548+05:30","level":"INFO","msg":"created new stream","id":"qymfj6fc"}
+{"time":"2025-01-24T15:40:49.7286548+05:30","level":"INFO","msg":"stream: started","id":"qymfj6fc"}
+{"time":"2025-01-24T15:40:49.7286548+05:30","level":"INFO","msg":"handler: started","stream_id":"qymfj6fc"}
+{"time":"2025-01-24T15:40:49.7286548+05:30","level":"INFO","msg":"sender: started","stream_id":"qymfj6fc"}
+{"time":"2025-01-24T15:40:49.7286548+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qymfj6fc"}
+{"time":"2025-01-24T15:40:50.3767805+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T15:40:50.694551+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:41:04.816567+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:41:06.8773775+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:41:44.2768553+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:41:44.2782798+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:41:46.7044485+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:44:49.695201+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:53:27.1514505+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:53:29.4908238+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:56:32.8030552+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:56:32.8058304+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:57:26.9763825+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:57:26.9768866+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:57:28.7671118+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:57:28.7727514+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:57:47.308758+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:57:49.4625816+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:57:59.1102749+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:01:17.6083164+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:01:20.4911553+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:02:24.4653888+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:02:35.1510385+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/harshvardhan-singh-iiit-hyderabad/RawNet-Training/qymfj6fc/file_stream"}
+{"time":"2025-01-24T16:02:35.1510385+05:30","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/harshvardhan-singh-iiit-hyderabad/RawNet-Training/qymfj6fc/file_stream: {\"error\":\"run RawNet-Training/qymfj6fc not found while streaming file\"}"}
+{"time":"2025-01-24T16:02:49.3606242+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:02:49.3843189+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:03:15.4456332+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:04:00.4962747+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:04:51.5757775+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:04:51.6146772+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:05:21.6481702+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:06:21.9412817+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:07:37.6433689+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:07:37.6439221+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:07:40.0455261+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:07:40.0504889+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:07:40.4848524+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:07:40.4882963+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:07:41.270877+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:07:41.2745426+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:07:52.6672565+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:10:09.2824156+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:10:27.1080795+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:11:20.9305661+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:12:01.3108707+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:13:32.2667068+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:13:32.2718488+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:13:32.2782941+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:13:32.2823698+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:13:32.287733+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:13:36.6452348+05:30","level":"INFO","msg":"Resuming system monitor"}

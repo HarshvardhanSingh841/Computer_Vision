@@ -1,0 +1,255 @@
+--- Logging error ---
+Traceback (most recent call last):
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+    stream.write(msg + self.terminator)
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 140-141: character maps to <undefined>
+Call stack:
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel_launcher.py", line 18, in <module>
+    app.launch_new_instance()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\traitlets\config\application.py", line 1075, in launch_instance
+    app.start()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelapp.py", line 739, in start
+    self.io_loop.start()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\tornado\platform\asyncio.py", line 205, in start
+    self.asyncio_loop.run_forever()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 545, in dispatch_queue
+    await self.process_one()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 534, in process_one
+    await dispatch(*args)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 437, in dispatch_shell
+    await result
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\ipkernel.py", line 362, in execute_request
+    await super().execute_request(stream, ident, parent)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 778, in execute_request
+    reply_content = await reply_content
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\ipkernel.py", line 449, in do_execute
+    res = shell.run_cell(
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\zmqshell.py", line 549, in run_cell
+    return super().run_cell(*args, **kwargs)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3075, in run_cell
+    result = self._run_cell(
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3130, in _run_cell
+    result = runner(coro)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\async_helpers.py", line 128, in _pseudo_sync_runner
+    coro.send(None)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3334, in run_cell_async
+    has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3517, in run_ast_nodes
+    if await self.run_code(code, result, async_=asy):
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3577, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "C:\Users\SHARS\AppData\Local\Temp\ipykernel_16972\193440037.py", line 6, in <module>
+    wandb.init(project="CannyNet-Train-eval", config={
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 1430, in init
+    wi.setup_run_log_directory(run_settings)
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 624, in setup_run_log_directory
+    self._logger.info(f"Logging user logs to {settings.log_user}")
+Message: 'Logging user logs to c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_162753-0izdyp4o\\logs\\debug.log'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+    stream.write(msg + self.terminator)
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 140-141: character maps to <undefined>
+Call stack:
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel_launcher.py", line 18, in <module>
+    app.launch_new_instance()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\traitlets\config\application.py", line 1075, in launch_instance
+    app.start()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelapp.py", line 739, in start
+    self.io_loop.start()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\tornado\platform\asyncio.py", line 205, in start
+    self.asyncio_loop.run_forever()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 545, in dispatch_queue
+    await self.process_one()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 534, in process_one
+    await dispatch(*args)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 437, in dispatch_shell
+    await result
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\ipkernel.py", line 362, in execute_request
+    await super().execute_request(stream, ident, parent)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 778, in execute_request
+    reply_content = await reply_content
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\ipkernel.py", line 449, in do_execute
+    res = shell.run_cell(
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\zmqshell.py", line 549, in run_cell
+    return super().run_cell(*args, **kwargs)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3075, in run_cell
+    result = self._run_cell(
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3130, in _run_cell
+    result = runner(coro)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\async_helpers.py", line 128, in _pseudo_sync_runner
+    coro.send(None)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3334, in run_cell_async
+    has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3517, in run_ast_nodes
+    if await self.run_code(code, result, async_=asy):
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3577, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "C:\Users\SHARS\AppData\Local\Temp\ipykernel_16972\193440037.py", line 6, in <module>
+    wandb.init(project="CannyNet-Train-eval", config={
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 1430, in init
+    wi.setup_run_log_directory(run_settings)
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 624, in setup_run_log_directory
+    self._logger.info(f"Logging user logs to {settings.log_user}")
+Message: 'Logging user logs to c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_162753-0izdyp4o\\logs\\debug.log'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+    stream.write(msg + self.terminator)
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 144-145: character maps to <undefined>
+Call stack:
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel_launcher.py", line 18, in <module>
+    app.launch_new_instance()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\traitlets\config\application.py", line 1075, in launch_instance
+    app.start()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelapp.py", line 739, in start
+    self.io_loop.start()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\tornado\platform\asyncio.py", line 205, in start
+    self.asyncio_loop.run_forever()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 545, in dispatch_queue
+    await self.process_one()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 534, in process_one
+    await dispatch(*args)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 437, in dispatch_shell
+    await result
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\ipkernel.py", line 362, in execute_request
+    await super().execute_request(stream, ident, parent)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 778, in execute_request
+    reply_content = await reply_content
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\ipkernel.py", line 449, in do_execute
+    res = shell.run_cell(
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\zmqshell.py", line 549, in run_cell
+    return super().run_cell(*args, **kwargs)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3075, in run_cell
+    result = self._run_cell(
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3130, in _run_cell
+    result = runner(coro)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\async_helpers.py", line 128, in _pseudo_sync_runner
+    coro.send(None)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3334, in run_cell_async
+    has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3517, in run_ast_nodes
+    if await self.run_code(code, result, async_=asy):
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3577, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "C:\Users\SHARS\AppData\Local\Temp\ipykernel_16972\193440037.py", line 6, in <module>
+    wandb.init(project="CannyNet-Train-eval", config={
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 1430, in init
+    wi.setup_run_log_directory(run_settings)
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 625, in setup_run_log_directory
+    self._logger.info(f"Logging internal logs to {settings.log_internal}")
+Message: 'Logging internal logs to c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_162753-0izdyp4o\\logs\\debug-internal.log'
+Arguments: ()
+--- Logging error ---
+Traceback (most recent call last):
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+    stream.write(msg + self.terminator)
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 144-145: character maps to <undefined>
+Call stack:
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel_launcher.py", line 18, in <module>
+    app.launch_new_instance()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\traitlets\config\application.py", line 1075, in launch_instance
+    app.start()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelapp.py", line 739, in start
+    self.io_loop.start()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\tornado\platform\asyncio.py", line 205, in start
+    self.asyncio_loop.run_forever()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 545, in dispatch_queue
+    await self.process_one()
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 534, in process_one
+    await dispatch(*args)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 437, in dispatch_shell
+    await result
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\ipkernel.py", line 362, in execute_request
+    await super().execute_request(stream, ident, parent)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\kernelbase.py", line 778, in execute_request
+    reply_content = await reply_content
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\ipkernel.py", line 449, in do_execute
+    res = shell.run_cell(
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\ipykernel\zmqshell.py", line 549, in run_cell
+    return super().run_cell(*args, **kwargs)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3075, in run_cell
+    result = self._run_cell(
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3130, in _run_cell
+    result = runner(coro)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\async_helpers.py", line 128, in _pseudo_sync_runner
+    coro.send(None)
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3334, in run_cell_async
+    has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3517, in run_ast_nodes
+    if await self.run_code(code, result, async_=asy):
+  File "C:\Users\SHARS\AppData\Roaming\Python\Python311\site-packages\IPython\core\interactiveshell.py", line 3577, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "C:\Users\SHARS\AppData\Local\Temp\ipykernel_16972\193440037.py", line 6, in <module>
+    wandb.init(project="CannyNet-Train-eval", config={
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 1430, in init
+    wi.setup_run_log_directory(run_settings)
+  File "c:\Users\SHARS\AppData\Local\Programs\Python\Python311\Lib\site-packages\wandb\sdk\wandb_init.py", line 625, in setup_run_log_directory
+    self._logger.info(f"Logging internal logs to {settings.log_internal}")
+Message: 'Logging internal logs to c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_162753-0izdyp4o\\logs\\debug-internal.log'
+Arguments: ()
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.88      0.81      1000
+           1       0.95      0.96      0.96      1000
+           2       0.75      0.80      0.77      1000
+           3       0.84      0.89      0.86      1000
+           4       0.77      0.77      0.77      1000
+           5       0.94      0.89      0.91      1000
+           6       0.73      0.50      0.60      1000
+           7       0.88      0.93      0.90      1000
+           8       0.96      0.95      0.95      1000
+           9       0.93      0.93      0.93      1000
+
+    accuracy                           0.85     10000
+   macro avg       0.85      0.85      0.85     10000
+weighted avg       0.85      0.85      0.85     10000
+
+Test Accuracy: 0.8505

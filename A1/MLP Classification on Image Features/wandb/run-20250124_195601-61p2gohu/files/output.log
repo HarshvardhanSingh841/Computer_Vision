@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\SHARS\AppData\Local\Temp\ipykernel_18544\3077151295.py", line 26, in train_and_evaluate
+    train_loss, train_acc = train_one_epoch(model, train_loader, criterion, optimizer, device)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: train_one_epoch() takes 1 positional argument but 5 were given

@@ -1,0 +1,26 @@
+{"time":"2025-01-24T16:45:38.3560789+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_164538-avtp4tgv\\logs\\debug-core.log"}
+{"time":"2025-01-24T16:45:38.538147+05:30","level":"INFO","msg":"created new stream","id":"avtp4tgv"}
+{"time":"2025-01-24T16:45:38.538147+05:30","level":"INFO","msg":"stream: started","id":"avtp4tgv"}
+{"time":"2025-01-24T16:45:38.5386904+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"avtp4tgv"}
+{"time":"2025-01-24T16:45:38.5386904+05:30","level":"INFO","msg":"sender: started","stream_id":"avtp4tgv"}
+{"time":"2025-01-24T16:45:38.5390283+05:30","level":"INFO","msg":"handler: started","stream_id":"avtp4tgv"}
+{"time":"2025-01-24T16:45:39.0252446+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T16:45:41.1328577+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:50:46.2862332+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:50:46.2898774+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:51:14.343209+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:51:14.3475718+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:51:21.9563167+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:51:23.8316506+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:51:30.31339+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:51:30.3171322+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:51:33.3309973+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:58:11.8443178+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T16:58:11.8450031+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T16:58:12.8458514+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.1195078},{"desc":"uploading wandb-summary.json","runtime_seconds":0.1195078}],"total_operations":2}}
+{"time":"2025-01-24T16:58:14.4243209+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T16:58:15.9622785+05:30","level":"INFO","msg":"stream: closing","id":"avtp4tgv"}
+{"time":"2025-01-24T16:58:15.9622785+05:30","level":"INFO","msg":"handler: closed","stream_id":"avtp4tgv"}
+{"time":"2025-01-24T16:58:15.9622785+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"avtp4tgv"}
+{"time":"2025-01-24T16:58:15.9622785+05:30","level":"INFO","msg":"sender: closed","stream_id":"avtp4tgv"}
+{"time":"2025-01-24T16:58:15.9622785+05:30","level":"INFO","msg":"stream: closed","id":"avtp4tgv"}

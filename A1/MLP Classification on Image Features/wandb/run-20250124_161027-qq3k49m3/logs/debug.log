@@ -1,0 +1,24 @@
+2025-01-24 16:10:27,146 INFO    MainThread:23504 [wandb_init.py:init():743] calling init triggers
+2025-01-24 16:10:27,147 INFO    MainThread:23504 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {'epochs': 20, 'batch_size': 64, 'learning_rate': 0.001}
+2025-01-24 16:10:27,147 INFO    MainThread:23504 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-24 16:11:20,928 INFO    MainThread:23504 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-24 16:11:20,928 INFO    MainThread:23504 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-24 16:12:01,307 INFO    MainThread:23504 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-24 16:12:01,346 INFO    MainThread:23504 [wandb_init.py:init():743] calling init triggers
+2025-01-24 16:12:01,347 INFO    MainThread:23504 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {'epochs': 20, 'batch_size': 64, 'learning_rate': 0.001}
+2025-01-24 16:12:01,348 INFO    MainThread:23504 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-24 16:13:32,265 INFO    MainThread:23504 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-24 16:13:32,266 INFO    MainThread:23504 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-24 16:13:32,270 INFO    MainThread:23504 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-24 16:13:32,275 INFO    MainThread:23504 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-24 16:13:32,277 INFO    MainThread:23504 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-24 16:13:32,281 INFO    MainThread:23504 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-24 16:13:32,283 INFO    MainThread:23504 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-24 16:13:32,286 INFO    MainThread:23504 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-24 16:13:36,643 INFO    MainThread:23504 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-24 16:13:36,969 INFO    MainThread:23504 [wandb_init.py:init():743] calling init triggers
+2025-01-24 16:13:36,969 INFO    MainThread:23504 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {'epochs': 20, 'batch_size': 64, 'learning_rate': 0.001}
+2025-01-24 16:13:36,970 INFO    MainThread:23504 [wandb_init.py:init():768] wandb.init() called when a run is still active

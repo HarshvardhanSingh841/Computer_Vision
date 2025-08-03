@@ -1,0 +1,16 @@
+{"time":"2025-01-24T19:28:41.9005471+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_192841-gy754gjl\\logs\\debug-core.log"}
+{"time":"2025-01-24T19:28:42.0828407+05:30","level":"INFO","msg":"created new stream","id":"gy754gjl"}
+{"time":"2025-01-24T19:28:42.0828407+05:30","level":"INFO","msg":"stream: started","id":"gy754gjl"}
+{"time":"2025-01-24T19:28:42.0828407+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gy754gjl"}
+{"time":"2025-01-24T19:28:42.0829632+05:30","level":"INFO","msg":"handler: started","stream_id":"gy754gjl"}
+{"time":"2025-01-24T19:28:42.0828407+05:30","level":"INFO","msg":"sender: started","stream_id":"gy754gjl"}
+{"time":"2025-01-24T19:28:42.489135+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T19:28:44.0788723+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T19:28:44.0788723+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T19:28:45.0872531+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6695585,"progress":"327B/327B"},{"desc":"uploading config.yaml","runtime_seconds":0.3673946,"progress":"705B/705B"}],"total_operations":2}}
+{"time":"2025-01-24T19:28:45.7818852+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T19:28:47.1878464+05:30","level":"INFO","msg":"stream: closing","id":"gy754gjl"}
+{"time":"2025-01-24T19:28:47.1878464+05:30","level":"INFO","msg":"handler: closed","stream_id":"gy754gjl"}
+{"time":"2025-01-24T19:28:47.1878464+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gy754gjl"}
+{"time":"2025-01-24T19:28:47.1878464+05:30","level":"INFO","msg":"sender: closed","stream_id":"gy754gjl"}
+{"time":"2025-01-24T19:28:47.1878464+05:30","level":"INFO","msg":"stream: closed","id":"gy754gjl"}

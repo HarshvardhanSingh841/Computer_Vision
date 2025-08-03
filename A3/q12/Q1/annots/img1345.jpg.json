@@ -1,0 +1,52 @@
+{
+    "objects": [
+        {
+            "geometryType": "obb",
+            "obb": {
+                "xc": 192.0,
+                "yc": 342.5,
+                "w": 74.0,
+                "h": 17.0,
+                "theta": 180.0
+            },
+            "height": 690,
+            "width": 500
+        },
+        {
+            "geometryType": "obb",
+            "obb": {
+                "xc": 365.0,
+                "yc": 290.0,
+                "w": 56.0,
+                "h": 22.0,
+                "theta": 180.0
+            },
+            "height": 690,
+            "width": 500
+        },
+        {
+            "geometryType": "obb",
+            "obb": {
+                "xc": 287.5,
+                "yc": 342.0,
+                "w": 99.0,
+                "h": 18.0,
+                "theta": 180.0
+            },
+            "height": 690,
+            "width": 500
+        },
+        {
+            "geometryType": "obb",
+            "obb": {
+                "xc": 244.0,
+                "yc": 304.0,
+                "w": 214.0,
+                "h": 44.0,
+                "theta": -0.0
+            },
+            "height": 690,
+            "width": 500
+        }
+    ]
+}

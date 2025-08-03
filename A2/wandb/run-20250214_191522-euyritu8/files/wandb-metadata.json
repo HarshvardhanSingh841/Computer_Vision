@@ -1,0 +1,38 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2025-02-14T13:45:22.169294Z",
+  "program": "c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-2-HarshvardhanSingh841\\q1.ipynb",
+  "codePath": "q1.ipynb",
+  "email": "harshvardhan.singh@research.iiit.ac.in",
+  "root": "c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-2-HarshvardhanSingh841",
+  "host": "DellG16",
+  "executable": "c:\\Users\\SHARS\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "codePathLocal": "q1.ipynb",
+  "cpu_count": 24,
+  "cpu_count_logical": 32,
+  "gpu": "NVIDIA GeForce RTX 4070 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "998630223872",
+      "used": "478305017856"
+    }
+  },
+  "memory": {
+    "total": "16849256448"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 32
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4070 Laptop GPU",
+      "memoryTotal": "8585740288",
+      "cudaCores": 4608,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.6"
+}

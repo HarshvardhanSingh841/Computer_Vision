@@ -1,0 +1,16 @@
+{"time":"2025-01-24T19:48:22.6850695+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_194822-ppxlga99\\logs\\debug-core.log"}
+{"time":"2025-01-24T19:48:22.86601+05:30","level":"INFO","msg":"created new stream","id":"ppxlga99"}
+{"time":"2025-01-24T19:48:22.86601+05:30","level":"INFO","msg":"stream: started","id":"ppxlga99"}
+{"time":"2025-01-24T19:48:22.8665518+05:30","level":"INFO","msg":"sender: started","stream_id":"ppxlga99"}
+{"time":"2025-01-24T19:48:22.86601+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ppxlga99"}
+{"time":"2025-01-24T19:48:22.86601+05:30","level":"INFO","msg":"handler: started","stream_id":"ppxlga99"}
+{"time":"2025-01-24T19:48:23.3122075+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T19:54:23.8482151+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T19:54:23.8486422+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T19:54:24.5527431+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.0990629,"progress":"804B/804B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0990629,"progress":"1.2KB/1.2KB"}],"total_operations":2}}
+{"time":"2025-01-24T19:54:25.1017149+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T19:54:26.4484087+05:30","level":"INFO","msg":"stream: closing","id":"ppxlga99"}
+{"time":"2025-01-24T19:54:26.4484087+05:30","level":"INFO","msg":"handler: closed","stream_id":"ppxlga99"}
+{"time":"2025-01-24T19:54:26.4494445+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ppxlga99"}
+{"time":"2025-01-24T19:54:26.4494445+05:30","level":"INFO","msg":"sender: closed","stream_id":"ppxlga99"}
+{"time":"2025-01-24T19:54:26.4494445+05:30","level":"INFO","msg":"stream: closed","id":"ppxlga99"}

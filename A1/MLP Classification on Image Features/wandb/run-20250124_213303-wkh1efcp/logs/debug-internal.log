@@ -1,0 +1,16 @@
+{"time":"2025-01-24T21:33:04.2237658+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_213303-wkh1efcp\\logs\\debug-core.log"}
+{"time":"2025-01-24T21:33:04.4040809+05:30","level":"INFO","msg":"created new stream","id":"wkh1efcp"}
+{"time":"2025-01-24T21:33:04.4041707+05:30","level":"INFO","msg":"stream: started","id":"wkh1efcp"}
+{"time":"2025-01-24T21:33:04.4041707+05:30","level":"INFO","msg":"sender: started","stream_id":"wkh1efcp"}
+{"time":"2025-01-24T21:33:04.4041707+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wkh1efcp"}
+{"time":"2025-01-24T21:33:04.4041707+05:30","level":"INFO","msg":"handler: started","stream_id":"wkh1efcp"}
+{"time":"2025-01-24T21:33:04.7611945+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T21:34:37.6519843+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T21:34:37.6524888+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T21:34:38.6563204+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.0981001,"progress":"705B/705B"}],"total_operations":1}}
+{"time":"2025-01-24T21:34:38.9021655+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T21:34:40.2703637+05:30","level":"INFO","msg":"stream: closing","id":"wkh1efcp"}
+{"time":"2025-01-24T21:34:40.2703637+05:30","level":"INFO","msg":"handler: closed","stream_id":"wkh1efcp"}
+{"time":"2025-01-24T21:34:40.2703637+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wkh1efcp"}
+{"time":"2025-01-24T21:34:40.2703637+05:30","level":"INFO","msg":"sender: closed","stream_id":"wkh1efcp"}
+{"time":"2025-01-24T21:34:40.2703637+05:30","level":"INFO","msg":"stream: closed","id":"wkh1efcp"}

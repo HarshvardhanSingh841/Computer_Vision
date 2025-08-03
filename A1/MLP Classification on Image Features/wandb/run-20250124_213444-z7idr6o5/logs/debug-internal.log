@@ -1,0 +1,16 @@
+{"time":"2025-01-24T21:34:44.6572049+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_213444-z7idr6o5\\logs\\debug-core.log"}
+{"time":"2025-01-24T21:34:44.8307199+05:30","level":"INFO","msg":"created new stream","id":"z7idr6o5"}
+{"time":"2025-01-24T21:34:44.8307199+05:30","level":"INFO","msg":"stream: started","id":"z7idr6o5"}
+{"time":"2025-01-24T21:34:44.8307199+05:30","level":"INFO","msg":"handler: started","stream_id":"z7idr6o5"}
+{"time":"2025-01-24T21:34:44.8307199+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"z7idr6o5"}
+{"time":"2025-01-24T21:34:44.8311131+05:30","level":"INFO","msg":"sender: started","stream_id":"z7idr6o5"}
+{"time":"2025-01-24T21:34:45.1980744+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T21:36:09.055551+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T21:36:09.0561818+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T21:36:10.0577376+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3919035},{"desc":"uploading config.yaml","runtime_seconds":0.0813108,"progress":"706B/706B"}],"total_operations":2}}
+{"time":"2025-01-24T21:36:11.0335737+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T21:36:12.4065487+05:30","level":"INFO","msg":"stream: closing","id":"z7idr6o5"}
+{"time":"2025-01-24T21:36:12.4066984+05:30","level":"INFO","msg":"handler: closed","stream_id":"z7idr6o5"}
+{"time":"2025-01-24T21:36:12.4066984+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"z7idr6o5"}
+{"time":"2025-01-24T21:36:12.4067776+05:30","level":"INFO","msg":"sender: closed","stream_id":"z7idr6o5"}
+{"time":"2025-01-24T21:36:12.4067776+05:30","level":"INFO","msg":"stream: closed","id":"z7idr6o5"}

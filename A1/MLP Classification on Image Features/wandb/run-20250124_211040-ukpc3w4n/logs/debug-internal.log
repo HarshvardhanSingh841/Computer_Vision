@@ -1,0 +1,16 @@
+{"time":"2025-01-24T21:10:41.3670232+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_211040-ukpc3w4n\\logs\\debug-core.log"}
+{"time":"2025-01-24T21:10:41.5530011+05:30","level":"INFO","msg":"created new stream","id":"ukpc3w4n"}
+{"time":"2025-01-24T21:10:41.5530011+05:30","level":"INFO","msg":"stream: started","id":"ukpc3w4n"}
+{"time":"2025-01-24T21:10:41.5530011+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ukpc3w4n"}
+{"time":"2025-01-24T21:10:41.5530011+05:30","level":"INFO","msg":"handler: started","stream_id":"ukpc3w4n"}
+{"time":"2025-01-24T21:10:41.5530011+05:30","level":"INFO","msg":"sender: started","stream_id":"ukpc3w4n"}
+{"time":"2025-01-24T21:10:42.2107656+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T21:12:04.118993+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T21:12:04.1201156+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T21:12:05.1227106+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3368597},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3368597,"progress":"218B/218B"}],"total_operations":2}}
+{"time":"2025-01-24T21:12:05.5299997+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T21:12:06.916197+05:30","level":"INFO","msg":"stream: closing","id":"ukpc3w4n"}
+{"time":"2025-01-24T21:12:06.916197+05:30","level":"INFO","msg":"handler: closed","stream_id":"ukpc3w4n"}
+{"time":"2025-01-24T21:12:06.916197+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ukpc3w4n"}
+{"time":"2025-01-24T21:12:06.916197+05:30","level":"INFO","msg":"sender: closed","stream_id":"ukpc3w4n"}
+{"time":"2025-01-24T21:12:06.916197+05:30","level":"INFO","msg":"stream: closed","id":"ukpc3w4n"}

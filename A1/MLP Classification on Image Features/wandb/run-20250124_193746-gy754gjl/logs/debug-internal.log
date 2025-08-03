@@ -1,0 +1,8 @@
+{"time":"2025-01-24T19:37:46.1097695+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_193746-gy754gjl\\logs\\debug-core.log"}
+{"time":"2025-01-24T19:37:46.2773941+05:30","level":"INFO","msg":"created new stream","id":"gy754gjl"}
+{"time":"2025-01-24T19:37:46.2773941+05:30","level":"INFO","msg":"stream: started","id":"gy754gjl"}
+{"time":"2025-01-24T19:37:46.2773941+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gy754gjl"}
+{"time":"2025-01-24T19:37:46.2773941+05:30","level":"INFO","msg":"sender: started","stream_id":"gy754gjl"}
+{"time":"2025-01-24T19:37:46.2773941+05:30","level":"INFO","msg":"handler: started","stream_id":"gy754gjl"}
+{"time":"2025-01-24T19:37:46.7121697+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T19:38:03.2394865+05:30","level":"INFO","msg":"Pausing system monitor"}

@@ -1,0 +1,24 @@
+{"time":"2025-01-24T16:24:32.6602798+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_162432-e50wz8ay\\logs\\debug-core.log"}
+{"time":"2025-01-24T16:24:32.8382907+05:30","level":"INFO","msg":"created new stream","id":"e50wz8ay"}
+{"time":"2025-01-24T16:24:32.8383943+05:30","level":"INFO","msg":"stream: started","id":"e50wz8ay"}
+{"time":"2025-01-24T16:24:32.8383943+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"e50wz8ay"}
+{"time":"2025-01-24T16:24:32.8383943+05:30","level":"INFO","msg":"sender: started","stream_id":"e50wz8ay"}
+{"time":"2025-01-24T16:24:32.8383943+05:30","level":"INFO","msg":"handler: started","stream_id":"e50wz8ay"}
+{"time":"2025-01-24T16:24:33.8184994+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T16:24:35.9329956+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:27:38.4090143+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:27:38.4135716+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:27:39.2458721+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:27:39.2487042+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:27:45.2147426+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:27:45.2156663+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T16:27:53.1606934+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T16:34:01.4663946+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T16:34:01.4689893+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T16:34:02.4739698+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.0232401},{"desc":"uploading wandb-summary.json","runtime_seconds":0.0232401}],"total_operations":2}}
+{"time":"2025-01-24T16:34:03.1679252+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T16:34:04.658464+05:30","level":"INFO","msg":"stream: closing","id":"e50wz8ay"}
+{"time":"2025-01-24T16:34:04.658464+05:30","level":"INFO","msg":"handler: closed","stream_id":"e50wz8ay"}
+{"time":"2025-01-24T16:34:04.658464+05:30","level":"INFO","msg":"sender: closed","stream_id":"e50wz8ay"}
+{"time":"2025-01-24T16:34:04.658464+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"e50wz8ay"}
+{"time":"2025-01-24T16:34:04.658464+05:30","level":"INFO","msg":"stream: closed","id":"e50wz8ay"}

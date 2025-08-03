@@ -1,0 +1,24 @@
+2025-01-24 16:51:21,975 INFO    MainThread:16972 [wandb_init.py:init():743] calling init triggers
+2025-01-24 16:51:21,975 INFO    MainThread:16972 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {'epochs': 20, 'batch_size': 64, 'learning_rate': 0.001}
+2025-01-24 16:51:21,975 INFO    MainThread:16972 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-24 16:51:23,831 INFO    MainThread:16972 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-24 16:51:23,831 INFO    MainThread:16972 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-24 16:51:30,313 INFO    MainThread:16972 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-24 16:51:30,315 INFO    MainThread:16972 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-24 16:51:30,316 INFO    MainThread:16972 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-24 16:51:33,330 INFO    MainThread:16972 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-24 16:51:33,354 INFO    MainThread:16972 [wandb_init.py:init():743] calling init triggers
+2025-01-24 16:51:33,355 INFO    MainThread:16972 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {'epochs': 20, 'batch_size': 64, 'learning_rate': 0.001}
+2025-01-24 16:51:33,355 INFO    MainThread:16972 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-24 16:58:11,841 INFO    MainThread:16972 [wandb_run.py:_finish():2134] finishing run harshvardhan-singh-iiit-hyderabad/HOGNet-Train-eval/avtp4tgv
+2025-01-24 16:58:11,842 ERROR   MainThread:16972 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-24 16:58:11,842 INFO    MainThread:16972 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-24 16:58:11,843 INFO    MainThread:16972 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-24 16:58:11,843 INFO    MainThread:16972 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-24 16:58:11,843 INFO    MainThread:16972 [wandb_run.py:_restore():2356] restore
+2025-01-24 16:58:11,844 INFO    MainThread:16972 [wandb_run.py:_restore():2362] restore done
+2025-01-24 16:58:15,950 INFO    MainThread:16972 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-24 16:58:15,953 INFO    MainThread:16972 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-24 16:58:15,953 INFO    MainThread:16972 [wandb_run.py:_footer_sync_info():3937] logging synced files

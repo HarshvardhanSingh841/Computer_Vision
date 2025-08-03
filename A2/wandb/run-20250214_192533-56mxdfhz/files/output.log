@@ -1,0 +1,11 @@
+Epoch 1: Train Loss = 1.2288, Train Acc = 55.37%, Test Acc = 60.67%
+Epoch 2: Train Loss = 0.7497, Train Acc = 73.46%, Test Acc = 71.89%
+Epoch 3: Train Loss = 0.5220, Train Acc = 81.74%, Test Acc = 75.88%
+Epoch 4: Train Loss = 0.3406, Train Acc = 88.36%, Test Acc = 76.86%
+Epoch 5: Train Loss = 0.1994, Train Acc = 93.19%, Test Acc = 75.50%
+Epoch 6: Train Loss = 0.1241, Train Acc = 95.81%, Test Acc = 76.07%
+Epoch 7: Train Loss = 0.0961, Train Acc = 96.74%, Test Acc = 76.09%
+Epoch 8: Train Loss = 0.0814, Train Acc = 97.17%, Test Acc = 76.03%
+Epoch 9: Train Loss = 0.0697, Train Acc = 97.60%, Test Acc = 75.04%
+Epoch 10: Train Loss = 0.0633, Train Acc = 97.83%, Test Acc = 77.99%
+✅ Training Complete!

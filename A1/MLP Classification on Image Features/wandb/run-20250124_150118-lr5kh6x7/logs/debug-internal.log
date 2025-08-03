@@ -1,0 +1,20 @@
+{"time":"2025-01-24T15:01:32.2653398+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_150118-lr5kh6x7\\logs\\debug-core.log"}
+{"time":"2025-01-24T15:01:37.8620578+05:30","level":"INFO","msg":"created new stream","id":"lr5kh6x7"}
+{"time":"2025-01-24T15:01:37.8620578+05:30","level":"INFO","msg":"stream: started","id":"lr5kh6x7"}
+{"time":"2025-01-24T15:01:37.8620578+05:30","level":"INFO","msg":"handler: started","stream_id":"lr5kh6x7"}
+{"time":"2025-01-24T15:01:37.8620578+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lr5kh6x7"}
+{"time":"2025-01-24T15:01:37.8620578+05:30","level":"INFO","msg":"sender: started","stream_id":"lr5kh6x7"}
+{"time":"2025-01-24T15:01:40.5593057+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T15:01:40.6122808+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:02:54.809767+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:02:57.1944179+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:06:27.5734979+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:06:37.0870525+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:14:00.4861198+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:14:00.4872395+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:14:15.9619785+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:14:15.9636332+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:14:47.1153268+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:14:47.1171169+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-24T15:17:49.772761+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-24T15:17:51.8235698+05:30","level":"INFO","msg":"Pausing system monitor"}

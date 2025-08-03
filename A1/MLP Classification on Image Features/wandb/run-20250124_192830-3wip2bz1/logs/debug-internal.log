@@ -1,0 +1,16 @@
+{"time":"2025-01-24T19:28:30.9532528+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_192830-3wip2bz1\\logs\\debug-core.log"}
+{"time":"2025-01-24T19:28:31.1398825+05:30","level":"INFO","msg":"created new stream","id":"3wip2bz1"}
+{"time":"2025-01-24T19:28:31.1400284+05:30","level":"INFO","msg":"stream: started","id":"3wip2bz1"}
+{"time":"2025-01-24T19:28:31.1401706+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3wip2bz1"}
+{"time":"2025-01-24T19:28:31.1401706+05:30","level":"INFO","msg":"sender: started","stream_id":"3wip2bz1"}
+{"time":"2025-01-24T19:28:31.1401706+05:30","level":"INFO","msg":"handler: started","stream_id":"3wip2bz1"}
+{"time":"2025-01-24T19:28:31.5416079+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T19:28:33.2350358+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T19:28:33.2350358+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T19:28:34.247883+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6699934,"progress":"327B/327B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6699934,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.3847671,"progress":"706B/706B"}],"total_operations":3}}
+{"time":"2025-01-24T19:28:34.8967137+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T19:28:36.3499503+05:30","level":"INFO","msg":"stream: closing","id":"3wip2bz1"}
+{"time":"2025-01-24T19:28:36.3499503+05:30","level":"INFO","msg":"handler: closed","stream_id":"3wip2bz1"}
+{"time":"2025-01-24T19:28:36.3499503+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3wip2bz1"}
+{"time":"2025-01-24T19:28:36.352229+05:30","level":"INFO","msg":"sender: closed","stream_id":"3wip2bz1"}
+{"time":"2025-01-24T19:28:36.352229+05:30","level":"INFO","msg":"stream: closed","id":"3wip2bz1"}

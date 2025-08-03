@@ -1,0 +1,16 @@
+{"time":"2025-02-14T19:17:18.8518682+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-2-HarshvardhanSingh841\\wandb\\run-20250214_191718-0nxl1hbt\\logs\\debug-core.log"}
+{"time":"2025-02-14T19:17:18.9689075+05:30","level":"INFO","msg":"created new stream","id":"0nxl1hbt"}
+{"time":"2025-02-14T19:17:18.9689075+05:30","level":"INFO","msg":"stream: started","id":"0nxl1hbt"}
+{"time":"2025-02-14T19:17:18.9689075+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0nxl1hbt"}
+{"time":"2025-02-14T19:17:18.9689075+05:30","level":"INFO","msg":"sender: started","stream_id":"0nxl1hbt"}
+{"time":"2025-02-14T19:17:18.9689075+05:30","level":"INFO","msg":"handler: started","stream_id":"0nxl1hbt"}
+{"time":"2025-02-14T19:17:19.3733149+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-14T19:22:35.7837268+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-14T19:22:35.7837268+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-14T19:22:36.7976645+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3310817,"progress":"704B/704B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3310817,"progress":"164B/164B"}],"total_operations":2}}
+{"time":"2025-02-14T19:22:37.1663464+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-14T19:22:38.5275342+05:30","level":"INFO","msg":"stream: closing","id":"0nxl1hbt"}
+{"time":"2025-02-14T19:22:38.5275342+05:30","level":"INFO","msg":"handler: closed","stream_id":"0nxl1hbt"}
+{"time":"2025-02-14T19:22:38.5275342+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0nxl1hbt"}
+{"time":"2025-02-14T19:22:38.5282342+05:30","level":"INFO","msg":"sender: closed","stream_id":"0nxl1hbt"}
+{"time":"2025-02-14T19:22:38.5282342+05:30","level":"INFO","msg":"stream: closed","id":"0nxl1hbt"}

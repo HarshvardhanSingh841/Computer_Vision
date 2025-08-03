@@ -1,0 +1,12 @@
+🚀 Training ResNet18 from Scratch...
+Epoch 1: Train Loss = 1.2576, Train Acc = 53.99%, Test Acc = 63.10%
+Epoch 2: Train Loss = 0.7578, Train Acc = 73.42%, Test Acc = 70.58%
+Epoch 3: Train Loss = 0.5665, Train Acc = 80.25%, Test Acc = 79.55%
+Epoch 4: Train Loss = 0.4412, Train Acc = 84.71%, Test Acc = 80.35%
+Epoch 5: Train Loss = 0.3429, Train Acc = 88.00%, Test Acc = 77.38%
+Epoch 6: Train Loss = 0.2578, Train Acc = 90.94%, Test Acc = 81.37%
+Epoch 7: Train Loss = 0.1904, Train Acc = 93.27%, Test Acc = 82.43%
+Epoch 8: Train Loss = 0.1339, Train Acc = 95.21%, Test Acc = 81.53%
+Epoch 9: Train Loss = 0.1036, Train Acc = 96.29%, Test Acc = 82.59%
+Epoch 10: Train Loss = 0.0880, Train Acc = 96.95%, Test Acc = 82.67%
+✅ Training Complete!

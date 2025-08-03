@@ -1,0 +1,30 @@
+{"time":"2025-02-14T19:11:24.1083737+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-2-HarshvardhanSingh841\\wandb\\run-20250214_191124-m8wphzd1\\logs\\debug-core.log"}
+{"time":"2025-02-14T19:11:24.2270954+05:30","level":"INFO","msg":"created new stream","id":"m8wphzd1"}
+{"time":"2025-02-14T19:11:24.2270954+05:30","level":"INFO","msg":"stream: started","id":"m8wphzd1"}
+{"time":"2025-02-14T19:11:24.2270954+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"m8wphzd1"}
+{"time":"2025-02-14T19:11:24.2270954+05:30","level":"INFO","msg":"sender: started","stream_id":"m8wphzd1"}
+{"time":"2025-02-14T19:11:24.2270954+05:30","level":"INFO","msg":"handler: started","stream_id":"m8wphzd1"}
+{"time":"2025-02-14T19:11:24.5995101+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-14T19:11:25.4180071+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-14T19:12:47.3158889+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-14T19:12:47.3176663+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-14T19:13:16.7033112+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-14T19:13:16.7068462+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-14T19:13:18.5847979+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-14T19:13:18.5888679+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-14T19:13:18.9745166+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-14T19:13:18.9783516+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-14T19:13:19.1115326+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-14T19:13:19.1153173+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-14T19:13:19.929061+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-14T19:13:19.9334721+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-14T19:13:24.153165+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-14T19:13:24.1553346+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-14T19:13:24.1558584+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-14T19:13:25.1648153+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.1197205,"progress":"543B/543B"}],"total_operations":1}}
+{"time":"2025-02-14T19:13:25.3943234+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-14T19:13:26.7218874+05:30","level":"INFO","msg":"stream: closing","id":"m8wphzd1"}
+{"time":"2025-02-14T19:13:26.7218874+05:30","level":"INFO","msg":"handler: closed","stream_id":"m8wphzd1"}
+{"time":"2025-02-14T19:13:26.7218874+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"m8wphzd1"}
+{"time":"2025-02-14T19:13:26.7218874+05:30","level":"INFO","msg":"sender: closed","stream_id":"m8wphzd1"}
+{"time":"2025-02-14T19:13:26.7218874+05:30","level":"INFO","msg":"stream: closed","id":"m8wphzd1"}

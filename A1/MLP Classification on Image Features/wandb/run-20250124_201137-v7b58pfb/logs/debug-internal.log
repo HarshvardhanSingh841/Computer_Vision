@@ -1,0 +1,16 @@
+{"time":"2025-01-24T20:11:38.5437658+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"c:\\Users\\SHARS\\OneDrive\\문서\\GitHub\\assignment-1-HarshvardhanSingh841\\MLP Classification on Image Features\\wandb\\run-20250124_201137-v7b58pfb\\logs\\debug-core.log"}
+{"time":"2025-01-24T20:11:38.7234749+05:30","level":"INFO","msg":"created new stream","id":"v7b58pfb"}
+{"time":"2025-01-24T20:11:38.723978+05:30","level":"INFO","msg":"stream: started","id":"v7b58pfb"}
+{"time":"2025-01-24T20:11:38.723978+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"v7b58pfb"}
+{"time":"2025-01-24T20:11:38.723978+05:30","level":"INFO","msg":"sender: started","stream_id":"v7b58pfb"}
+{"time":"2025-01-24T20:11:38.723978+05:30","level":"INFO","msg":"handler: started","stream_id":"v7b58pfb"}
+{"time":"2025-01-24T20:11:39.1168792+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T20:15:13.4234155+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T20:15:13.4235584+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T20:15:14.4312585+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3713739},{"desc":"uploading config.yaml","runtime_seconds":0.082008,"progress":"706B/706B"}],"total_operations":2}}
+{"time":"2025-01-24T20:15:14.8990808+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T20:15:16.2643798+05:30","level":"INFO","msg":"stream: closing","id":"v7b58pfb"}
+{"time":"2025-01-24T20:15:16.2643798+05:30","level":"INFO","msg":"handler: closed","stream_id":"v7b58pfb"}
+{"time":"2025-01-24T20:15:16.2643798+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"v7b58pfb"}
+{"time":"2025-01-24T20:15:16.2643798+05:30","level":"INFO","msg":"sender: closed","stream_id":"v7b58pfb"}
+{"time":"2025-01-24T20:15:16.2643798+05:30","level":"INFO","msg":"stream: closed","id":"v7b58pfb"}

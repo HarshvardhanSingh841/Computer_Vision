@@ -1,0 +1,33 @@
+2025-01-24 21:25:29,003 INFO    Thread-83 (_run_job):18544 [wandb_setup.py:_flush():68] Current SDK version is 0.19.4
+2025-01-24 21:25:29,003 INFO    Thread-83 (_run_job):18544 [wandb_setup.py:_flush():68] Configure stats pid to 18544
+2025-01-24 21:25:29,003 INFO    Thread-83 (_run_job):18544 [wandb_setup.py:_flush():68] Loading settings from C:\Users\SHARS\.config\wandb\settings
+2025-01-24 21:25:29,006 INFO    Thread-83 (_run_job):18544 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-01-24 21:25:29,007 INFO    Thread-83 (_run_job):18544 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002BA6CDE25D0>
+2025-01-24 21:25:29,007 INFO    Thread-83 (_run_job):18544 [wandb_init.py:init():743] calling init triggers
+2025-01-24 21:25:29,008 INFO    Thread-83 (_run_job):18544 [wandb_init.py:init():748] wandb.init called with sweep_config: {'batch_size': 32, 'epochs': 5, 'learning_rate': 0.0001}
+config: {}
+2025-01-24 21:25:29,009 INFO    Thread-83 (_run_job):18544 [wandb_init.py:init():776] starting backend
+2025-01-24 21:25:29,567 INFO    Thread-83 (_run_job):18544 [wandb_init.py:init():780] sending inform_init request
+2025-01-24 21:25:29,568 INFO    Thread-83 (_run_job):18544 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-01-24 21:25:29,569 INFO    Thread-83 (_run_job):18544 [wandb_init.py:init():795] backend started and connected
+2025-01-24 21:25:29,570 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_config_callback():1270] config_cb None None {'batch_size': 32, 'epochs': 5, 'learning_rate': 0.0001}
+2025-01-24 21:25:29,571 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-24 21:25:29,575 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_label_probe_notebook():1223] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 1040806: character maps to <undefined>
+2025-01-24 21:25:29,575 INFO    Thread-83 (_run_job):18544 [wandb_init.py:init():888] updated telemetry
+2025-01-24 21:25:29,575 INFO    Thread-83 (_run_job):18544 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-24 21:25:30,104 INFO    Thread-83 (_run_job):18544 [wandb_init.py:init():967] starting run threads in backend
+2025-01-24 21:25:30,162 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-24 21:25:30,162 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-24 21:25:30,162 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-24 21:25:30,162 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-24 21:25:30,163 INFO    Thread-83 (_run_job):18544 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-24 21:26:38,307 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_finish():2134] finishing run harshvardhan-singh-iiit-hyderabad/RawNet-Optimization/gf1b8n4h
+2025-01-24 21:26:38,311 ERROR   Thread-83 (_run_job):18544 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-24 21:26:38,311 INFO    Thread-83 (_run_job):18544 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-24 21:26:38,311 INFO    Thread-83 (_run_job):18544 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-24 21:26:38,311 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-24 21:26:38,311 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_restore():2356] restore
+2025-01-24 21:26:38,311 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_restore():2362] restore done
+2025-01-24 21:26:40,980 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-24 21:26:40,980 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-24 21:26:40,980 INFO    Thread-83 (_run_job):18544 [wandb_run.py:_footer_sync_info():3937] logging synced files
